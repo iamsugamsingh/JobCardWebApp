@@ -1,0 +1,117 @@
+﻿*
+{
+    margin: 0; 
+    padding: 0; 
+    font-size:14px;    
+    font-family:Segoe UI Historic;
+}
+.header
+{
+    background:#3390ff;
+    height:50px;
+    line-height:50px;
+    box-shadow:2px 2px 5px;
+    margin-bottom:25px;
+}
+.logo
+{
+    margin-top:5px;
+    margin-left:5px;
+    float:left; 
+}
+.logo img
+{
+    width:40px;  
+}
+.heading-text
+{
+    color:White; 
+    width:100%;
+    font-size:20px;
+    font-weight:bold; 
+}
+body 
+{
+    background: whitesmoke;
+    font-size:14px;
+}
+hr
+{
+    height:2px;
+    background:#abb2b9;
+    border:none;
+    padding:0px;
+    border-right:0;
+    border-left:0;
+}
+.lbl
+{
+    margin-left:25px;
+    font-weight:bold;
+    width:100%;
+}
+.form-control
+{
+    margin-left:10px;
+}
+.btn
+{
+    margin-top:23px;
+    margin-left:10px;
+    font-weight:bold;
+    font-family:Segoe UI Historic;
+}
+.checkboxfield
+{
+    padding-top:10px;
+}
+.checkBoxArea
+{    
+    margin-left:25px;
+    border:1px solid #CCCCCC;
+    padding:5px;
+    background:#fff;
+    border-radius:4px;
+    width:100%;
+}
+#printBtn
+{
+    margin-left:40px;
+}
+#alertMsg
+{    
+    margin-top:100px;
+    font-size:24px;
+    font-weight:bold;
+    color:Red;  
+    margin-left:450px;
+    position:absolute;  
+}
+.browse
+{
+    margin-left:25px;
+    width:100px;
+}
+.footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #3390ff;
+    color: white;
+    text-align: center;
+    height:50px;
+    line-height:50px;
+    font-weight:bold;
+    border-top-left-radius: 4px;
+    border-top-right-radius:4px;
+}
+.version
+{
+    float:right;
+    margin-right:50px;
+    color:white;
+    font-weight:bold;
+    margin-top:-60px;
+}

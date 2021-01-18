@@ -1,0 +1,42 @@
+D:\Complete Softwares\JobCard WebApp\obj\Debug\JobCardApplication.csprojResolveAssemblyReference.cache
+D:\Complete Softwares\JobCard WebApp\obj\Debug\JobCardApplication.csproj.ResolveComReference.cache
+D:\Complete Softwares\JobCard WebApp\obj\Debug\RdlCompile.cache
+D:\Complete Softwares\JobCard WebApp\obj\Debug\RdlCompile.compiled
+D:\Complete Softwares\JobCard WebApp\bin\JobCardApplication.dll
+D:\Complete Softwares\JobCard WebApp\bin\JobCardApplication.pdb
+D:\Complete Softwares\JobCard WebApp\bin\NPOI.dll
+D:\Complete Softwares\JobCard WebApp\bin\Spire.Barcode.dll
+D:\Complete Softwares\JobCard WebApp\obj\Debug\JobCardApplication.dll
+D:\Complete Softwares\JobCard WebApp\obj\Debug\JobCardApplication.pdb
+W:\Software\Sugam\JobCard WebApp\bin\JobCardApplication.dll
+W:\Software\Sugam\JobCard WebApp\bin\JobCardApplication.pdb
+W:\Software\Sugam\JobCard WebApp\obj\Debug\JobCardApplication.csprojResolveAssemblyReference.cache
+W:\Software\Sugam\JobCard WebApp\obj\Debug\JobCardApplication.csproj.ResolveComReference.cache
+W:\Software\Sugam\JobCard WebApp\obj\Debug\RdlCompile.cache
+W:\Software\Sugam\JobCard WebApp\obj\Debug\RdlCompile.compiled
+W:\Software\Sugam\JobCard WebApp\obj\Debug\JobCardApplication.dll
+W:\Software\Sugam\JobCard WebApp\obj\Debug\JobCardApplication.pdb
+D:\Complete Softwares\JobCard WebApp\bin\itextsharp.dll
+W:\Software\Sugam\JobCard WebApp\bin\itextsharp.dll
+D:\w data\JobCard WebApp\bin\JobCardApplication.dll
+D:\w data\JobCard WebApp\bin\JobCardApplication.pdb
+D:\w data\JobCard WebApp\bin\itextsharp.dll
+D:\w data\JobCard WebApp\bin\NPOI.dll
+D:\w data\JobCard WebApp\bin\Spire.Barcode.dll
+D:\w data\JobCard WebApp\obj\Debug\JobCardApplication.csprojResolveAssemblyReference.cache
+D:\w data\JobCard WebApp\obj\Debug\JobCardApplication.csproj.ResolveComReference.cache
+D:\w data\JobCard WebApp\obj\Debug\RdlCompile.cache
+D:\w data\JobCard WebApp\obj\Debug\RdlCompile.compiled
+D:\w data\JobCard WebApp\obj\Debug\JobCardApplication.dll
+D:\w data\JobCard WebApp\obj\Debug\JobCardApplication.pdb
+D:\JobCard WebApp\bin\JobCardApplication.dll
+D:\JobCard WebApp\bin\JobCardApplication.pdb
+D:\JobCard WebApp\bin\itextsharp.dll
+D:\JobCard WebApp\bin\NPOI.dll
+D:\JobCard WebApp\bin\Spire.Barcode.dll
+D:\JobCard WebApp\obj\Debug\JobCardApplication.csprojResolveAssemblyReference.cache
+D:\JobCard WebApp\obj\Debug\JobCardApplication.csproj.ResolveComReference.cache
+D:\JobCard WebApp\obj\Debug\RdlCompile.cache
+D:\JobCard WebApp\obj\Debug\RdlCompile.compiled
+D:\JobCard WebApp\obj\Debug\JobCardApplication.dll
+D:\JobCard WebApp\obj\Debug\JobCardApplication.pdb
